@@ -46,23 +46,8 @@ try {
 Install with Composer:
 
 ```
-composer require Thumb/Generator
+composer require futurando-oficial/thumb-generator
 ```
-
-Or include the library manually:
-
-```php
-<?php
-require 'src/Thumb/Generator.php';
-```
-
-## About
-
-Generator is developed and maintained by [Cory LaViska](https://github.com/Thumb). Copyright A Beautiful Site, LLC.
-
-Contributions are appreciated! If you enjoy using Generator, especially in commercial applications, please consider [making a contribution](https://paypal.me/Thumb) to support its development.
-
-Thanks! 🙌
 
 ## License
 
